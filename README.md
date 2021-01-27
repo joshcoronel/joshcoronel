@@ -1,6 +1,11 @@
 ### Hi, I'm Joshua 👋
-[![GitHub Link](https://img.shields.io/github/followers/joshuajonme?label=Follow&style=social)](
-[![Linkedin: Joshua Coronel](https://img.shields.io/badge/-Joshua-blue?style=social&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshuacoronel/)
+[![GitHub Link](https://img.shields.io/github/followers/joshuajonme?label=Follow&style=social)(https://github.com/joshuajonme)
+[![Linkedin: Joshua Coronel](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)(https://www.linkedin.com/in/joshuacoronel/)
+<p align="center">
+<a href="https://www.linkedin.com/in/joshuacoronel/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 <!--
 **joshuajonme/joshuajonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
