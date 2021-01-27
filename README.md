@@ -1,5 +1,6 @@
 ### Hi, I'm Joshua 👋
-[![GitHub Link](https://img.shields.io/github/followers/joshuajonme?label=Follow)]
+[![GitHub Link](https://img.shields.io/github/followers/joshuajonme?label=Follow&style=social)](
+[![Linkedin: Joshua Coronel](https://img.shields.io/badge/-Joshua-blue?style=social&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshuacoronel/)
 <!--
 **joshuajonme/joshuajonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
