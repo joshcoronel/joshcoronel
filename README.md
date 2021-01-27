@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Joshua 👋
+[![GitHub Link](https://img.shields.io/github/followers/joshuajonme?label=Follow)]
 <!--
 **joshuajonme/joshuajonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## &#x1f4c8; GitHub Stats
+
