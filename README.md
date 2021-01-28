@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/joshuajonme/joshuajonme/main/JoshuaCoronel.png "Header")]
+![Header](./JoshuaCoronel.png "Header")
 ### Hi, I'm Joshua 👋
 <p align="center">
 <a href="https://www.linkedin.com/in/joshuacoronel/">
