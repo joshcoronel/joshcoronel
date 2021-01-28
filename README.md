@@ -31,3 +31,11 @@ I learned Data Science through a Rutger's Bootcamp, and I haven't left a text ed
 [1]: ttps://twitter.com/joshiecoronel
 [2]: https://github.com/joshuajonme
 [3]: https://www.linkedin.com/in/joshuajonme/
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
