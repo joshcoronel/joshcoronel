@@ -1,6 +1,5 @@
+[![Header](https://raw.githubusercontent.com/joshuajonme/joshuajonme/main/JoshuaCoronel.png "Header")]
 ### Hi, I'm Joshua 👋
-[![GitHub Link](https://img.shields.io/github/followers/joshuajonme?label=Follow&style=social)(https://github.com/joshuajonme)
-[![Linkedin: Joshua Coronel](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)(https://www.linkedin.com/in/joshuacoronel/)
 <p align="center">
 <a href="https://www.linkedin.com/in/joshuacoronel/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
