@@ -1,10 +1,14 @@
 ![Header](./JoshuaCoronel.png "Header")
-### Hi, I'm Joshua 👋
-<p align="center">
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/joshuacoronel/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<img align="left" alt="Joshua's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svge">
 </a>
-</p>
+<a href="https://twitter.com/joshiecoronel">
+  <img align="left" alt="Joshua Coronel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<br />
+
+I learned Data Science through a Rutger's Bootcamp, and I haven't left a text editor since! 
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
