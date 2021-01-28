@@ -6,6 +6,7 @@
 <a href="https://twitter.com/joshiecoronel">
   <img align="left" alt="Joshua Coronel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 <br />
 
 I learned Data Science through a Rutger's Bootcamp, and I haven't left a text editor since! 
