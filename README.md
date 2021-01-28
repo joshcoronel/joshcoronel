@@ -9,7 +9,9 @@
 
 <br />
 
+<p>
 I learned Data Science through a Rutger's Bootcamp, and I haven't left a text editor since! 
+</p>
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
