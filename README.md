@@ -28,7 +28,7 @@ I learned Data Science through a Rutger's Bootcamp, and I haven't left a text ed
 
 <!-- links to your social media accounts -->
 
-[1]: ttps://twitter.com/joshiecoronel
+[1]: https://twitter.com/JoshieCoronel
 [2]: https://github.com/joshuajonme
 [3]: https://www.linkedin.com/in/joshuajonme/
 
