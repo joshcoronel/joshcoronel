@@ -6,10 +6,10 @@ I learned Data Science through a Rutger's Bootcamp, and I haven't left a text ed
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuajonme&count_private=true&show_icons=true&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshcoronel&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuajonme&layout=compact&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshcoronel&layout=compact&theme=graywhite" />
 </a>
 
 <!-- links to social media icons -->
@@ -29,8 +29,8 @@ I learned Data Science through a Rutger's Bootcamp, and I haven't left a text ed
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/JoshieCoronel
-[2]: https://github.com/joshuajonme
-[3]: https://www.linkedin.com/in/joshuajonme/
+[2]: https://github.com/joshcoronel
+[3]: https://www.linkedin.com/in/joshcoronel/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
