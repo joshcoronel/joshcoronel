@@ -1,4 +1,4 @@
-![Header](./JoshCoronel.svg "Header")
+![Header](./JoshCoronel.png "Header")
 ### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I learned Data Science through a Rutger's Bootcamp, and I haven't left a text editor since! You can connect with me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
